@@ -1,10 +1,8 @@
 **0001/01/01 AF | Early Morning**
 
-
 He blinks, and the haze sharpens just a fraction—the table under your hands is etched with faint, glowing runes that pulse like distant stars, and the air hums with a low, ethereal vibration that seeps into your bones. The murmurs around you come from scattered figures: a hooded silhouette nursing a steaming mug, a translucent form flickering like a faulty hologram, all seated at mismatched tables in this vast, floating chamber where walls shimmer with indigo voids. The place is held up by huge straight and arching supports. No windows, no doors, The vast area outside being just an endless drift of shimmering lights beyond, not much different from images of a supernova.
 
 The one who spoke—a wiry woman with skin like polished obsidian and eyes that gleam silver—leans in slightly, her voice carrying a casual lilt as if this is just another shift at a dingy cafe. "Not a dream, friend. Seen that look a hundred times. Name's Olthara. You?" She taps the cup toward you again, its contents swirling with an iridescent liquid that smells faintly of rain and forgotten dreams.
-
 
 **0001/01/01 AF | Early Morning**
 
@@ -39,4 +37,4 @@ Albert looks around, his first sensation is the rush of hot and dry air to his f
 
 Albert takes a look at himself, his slick black drip looking hella out of place, but a number of the Roman-looking patrons are sizing him up and whispering to each other, clearly intrigued by his appearance. He notices that he has a small satchel slung over his shoulder, and when he opens it, he finds a few items inside: a small notebook filled with scribbled notes and drawings, a pen, several vials filled with twisting and shimmering liquids, and a strange device that looks like a cross between a compass and a pocket watch with optional handles for a wrist band. The device has a small screen that displays a map of the area, with a blinking dot indicating his current location. "Hell yeah, I can work with this" Albert thinks to himself, feeling a surge of excitement and curiosity about the new world he's found himself in. He decides to explore the marketplace and see what kind of opportunities and adventures await him in this strange new place.
 
-A vendor selling fresh fruits and vegetables catches his eye, the Romans walk towards Albert, he sees a well-built stall dressed in red and white stripes of cloth, a man dressed in formal clerk attire stands behind the counter, his face obscured by a wide-brimmed shining metal helmet. Albert ponders for a moment, and sees opportunity in all directions. 
+A vendor selling fresh fruits and vegetables catches his eye, the Romans walk towards Albert, he sees a well-built stall dressed in red and white stripes of cloth, a man dressed in formal clerk attire stands behind the counter, his face obscured by a wide-brimmed shining metal helmet. Albert ponders for a moment, and sees opportunity in all directions.
