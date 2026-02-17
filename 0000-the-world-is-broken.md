@@ -154,7 +154,7 @@ rtt min/avg/max/mdev = 3.378/3.989/4.702/0.472 ms
 
 OOC: System error. Date value invalid. Resetting to default initial value. Please wait...
 
-**0001/01/01 AF | Early Morning**
+**0001/01/01 AF | Dawn**
 
 OOC: Emergency Drifter capture sequence activated. Welcome to the The Last Waystation. Loading Physical Space...
 
