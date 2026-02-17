@@ -150,7 +150,7 @@ rtt min/avg/max/mdev = 3.378/3.989/4.702/0.472 ms
 
 'router's fine.' He leaned back, the chair creaking. 'I guess it's just the ISP's problem.' He sighed and went back to bed. 'I'll just read more on my phone.' 'Damn, this one is actually good, shoutout to that will what guy.' He continued reading. Light came through the window, the birds were chirping. 'Damn, it's already morning? I guess I should sleep now.' He closed the book and put the phone beside his bed. 'The internet better fix itself or those ISP guys will get some phishing emails, someone's gotta fix the routers if not them.' He turned off the light and went to sleep. His last thought before sleeping was about how broken the world was. 'What if I'd be isekaied? Yeah, a banger way to go, but truck-kun hasn't been a friend so far'.
 
-**NaN/NaN/NaN null | Uncaught TypeError: Cannot read properties of null (reading 'toTimeOfDay')**
+**Uncaught TypeError: Cannot read properties of null (reading 'toTimeOfDay')**
 
 OOC: System error. Date value invalid. Resetting to default initial value. Please wait...
 
