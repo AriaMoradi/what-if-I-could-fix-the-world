@@ -1,7 +1,6 @@
 ---
 title: 'The World is Broken'
 pubDate: 'Feb 11 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
 **2026/07/02 CE | Late Evening**

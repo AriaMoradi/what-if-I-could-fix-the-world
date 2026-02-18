@@ -1,7 +1,6 @@
 ---
 title: 'What If I Could Fix The World?'
 pubDate: 'Feb 10 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
 # What If I Could Fix The World?

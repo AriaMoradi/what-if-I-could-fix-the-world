@@ -1,7 +1,6 @@
 ---
 title: 'And the Working Nation Attacked'
 pubDate: 'Feb 16 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
 **1404/01/13 AF | Late Morning**

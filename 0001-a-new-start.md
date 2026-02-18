@@ -1,7 +1,6 @@
 ---
 title: 'A New Start'
 pubDate: 'Feb 16 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
 **0001/01/01 AF | Early Morning**

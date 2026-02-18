@@ -1,7 +1,6 @@
 ---
 title: 'The Numbers ~~Mason~~, What what do they mean?'
 pubDate: 'Feb 16 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
 **1404/01/14 AF | Late Morning**
