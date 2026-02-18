@@ -1,8 +1,8 @@
 ---
-title: 'What If I Could Fix The World?'
+title: 'Introduction'
 ---
 
-# What If I Could Fix The World?
+## What If I Could Fix The World?
 
 A romantic fantasy isekai narrative following the journey of Albert, who is unexpectedly transported to the magical world of Atherfall.
 
