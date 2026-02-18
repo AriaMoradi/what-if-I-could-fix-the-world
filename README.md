@@ -1,5 +1,5 @@
 ---
-title: 'This ze book'
+title: 'What If I Could Fix The World?'
 pubDate: 'Feb 10 2026'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
@@ -16,3 +16,7 @@ The story is being actively developed, with new chapters being added semi-regula
 - [A New Start](../0001-a-new-start)
 - [And the Working Nation Attacked](../0002-and-the-working-nation-attacked)
 - [The Numbers ~~Mason~~, What what do they mean?](../0003-the-numbers-what-do-they-mean)
+
+## License
+
+Check [LICENSE](./LICENSE.md) for details.
