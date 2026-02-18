@@ -1,6 +1,5 @@
 ---
 title: 'What If I Could Fix The World?'
-pubDate: 'N/A'
 ---
 
 # What If I Could Fix The World?
