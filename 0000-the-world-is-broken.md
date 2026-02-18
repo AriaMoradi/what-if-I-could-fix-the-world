@@ -1,3 +1,9 @@
+---
+title: 'The World is Broken'
+pubDate: 'Feb 11 2026'
+heroImage: '../../assets/blog-placeholder-3.jpg'
+---
+
 **2026/07/02 CE | Late Evening**
 
 Albert started flapping the neck of his sweaty undershirt. It was another warm night after a series of dry, cold nights. "Why the fuck is it warm in the middle of the winter?" he looked to his left 'the room radiator?', he turned his rotating office chair, lifting his left foot to touch it with his ...., he turned to the right, frantically pressing a key binding. A tab opened. "palm of foot in English." The page started turning, taking more than a second, he looked at his left monitor,

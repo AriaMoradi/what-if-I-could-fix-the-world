@@ -1,3 +1,9 @@
+---
+title: 'And the Working Nation Attacked'
+pubDate: 'Feb 16 2026'
+heroImage: '../../assets/blog-placeholder-3.jpg'
+---
+
 **1404/01/13 AF | Late Morning**
 
 The huge building looks like the Coliseum, but it is not like the pictures that he has seen, this one looks new and well maintained, the architecture is more intricate and detailed runes and shimmering symbols and gems are etched into the walls, the building is also much taller and grander, as if it could fit a small village inside.

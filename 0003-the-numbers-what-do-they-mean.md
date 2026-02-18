@@ -1,3 +1,9 @@
+---
+title: 'The Numbers ~~Mason~~, What what do they mean?'
+pubDate: 'Feb 16 2026'
+heroImage: '../../assets/blog-placeholder-3.jpg'
+---
+
 **1404/01/14 AF | Late Morning**
 
 Someone was breaking his door down. Albert jumped out of bed and ran to the door. He opened it and saw a huge person was standing like a mountain. He was a She? She had long hair and clearly had makup and was wearing a dress, but sounded manly for some reason. "You missed breakfast and work hours, get out an' leave before the guards sweep the S-area." She? handed him a fanny pack and picked him up. "You can keep the key, I choose to trust you with it. If they catch you show them the key, 'but if you dare te' not come back and pay for two nights, They WILL catch you. Capish?" She said while hauling him out like he was made of feathers.
