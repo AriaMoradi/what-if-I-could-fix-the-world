@@ -1,6 +1,6 @@
 ---
 title: 'What If I Could Fix The World?'
-pubDate: 'Feb 10 2026'
+pubDate: 'N/A'
 ---
 
 # What If I Could Fix The World?
